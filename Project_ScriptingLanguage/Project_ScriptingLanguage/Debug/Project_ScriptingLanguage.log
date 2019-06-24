@@ -1,0 +1,14 @@
+﻿  Project_ScriptingLanguage.cpp
+  stackEval.cpp
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(25,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(80,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(85,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(89,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(94,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(100,22): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(101,23): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(103,25): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(104,75): warning C4554:  '|': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating Code...
+C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Project_ScriptingLanguage\stackEval.cpp(127,20): warning C4018:  '<': signed/unsigned mismatch
+  Project_ScriptingLanguage.vcxproj -> C:\Users\ultim\OneDrive\Desktop\ProyectoLenguajesDeProgramacion\Project_ScriptingLanguage\Debug\Project_ScriptingLanguage.exe
